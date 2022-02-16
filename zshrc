@@ -44,3 +44,4 @@ export LC_ALL=en_US.UTF-8
 export PYTHONPATH="/Users/ryankretch/code/rkretch91/data-challenges/04-Decision-Science:$PYTHONPATH"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
